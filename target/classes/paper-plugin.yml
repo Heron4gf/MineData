@@ -1,0 +1,5 @@
+name: MineData
+version: '5.0'
+main: it.heron4gf.mineData.MineData
+api-version: '1.21'
+authors: [ Heron4gf ]
